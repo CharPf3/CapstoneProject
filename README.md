@@ -4,10 +4,8 @@ A personal reading tracker built with Vue 3, Express, and MongoDB.
 
 ## Live URLs
 
-- **Front-end:** https://&lt;your-username&gt;.github.io/CapstoneProject/
-- **Back-end API:** https://&lt;your-railway-app&gt;.up.railway.app
-
-> Update these URLs after deployment.
+- **Front-end:** https://charpf3.github.io/CapstoneProject/
+- **Back-end API:** https://capstoneproject-production-ead1.up.railway.app
 
 ## What it does
 
